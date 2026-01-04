@@ -1,10 +1,6 @@
 # 🚨 Agentic AI Road Damage Reporting System
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://python.org)
-[![Node.js](https://img.shields.io/badge/node.js-18+-green.svg)](https://nodejs.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com)
-[![React](https://img.shields.io/badge/React-18+-blue.svg)](https://reactjs.org)
+
 
 > **SDG 11 Initiative**: An intelligent civic reporting system that uses LangGraph-based multi-agent AI to guide users through reporting road damage and automatically notifies responsible authorities.
 
