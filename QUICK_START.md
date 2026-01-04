@@ -244,13 +244,8 @@ Once everything is running:
 3. ✅ Verify webhook notifications
 4. ✅ Customize authority mapping logic
 5. ✅ Add your own styling/branding
-6. ✅ Deploy to production (see SETUP_GUIDE.md)
+6. ✅ Deploy to production 
 
-## Need Help?
 
-- Check `SETUP_GUIDE.md` for detailed setup
-- Check `ARCHITECTURE.md` for system understanding
-- Check `PROJECT_STRUCTURE.md` for file organization
-- Review error messages in terminal and browser console
 
 
