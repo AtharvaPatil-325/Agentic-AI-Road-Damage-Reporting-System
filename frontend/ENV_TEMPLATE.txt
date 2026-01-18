@@ -1,0 +1,13 @@
+# ============================================
+# FRONTEND ENVIRONMENT VARIABLES TEMPLATE
+# ============================================
+# Copy this file to .env and fill in your actual values
+# ============================================
+
+# Backend API URL
+# This should match where your backend server is running
+# Default: http://localhost:8000
+# Production: https://your-backend-domain.com
+VITE_API_URL=http://localhost:8000
+
+
